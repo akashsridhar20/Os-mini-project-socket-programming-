@@ -1,0 +1,9 @@
+username,password,student_name,rollno,phone_no,email_id,books_borrowed
+user1,user1,user_name_1,imt2022001,111,111@gmail.com,1
+user2,user2,user_name_2,imt2022002,222,222@gmail.com,0
+user3,user3,user_name_3,imt2022003,333,333@gmail.com,2
+user4,user4,user_name_4,imt2022004,444,444@gmail.com,3
+user5,user5,user_name_5,imt2022005,555,555@gmail.com,74
+u1,u1,u1,imt2022006,1,1@gmail.com,78
+dummy,dummy,dummy,777,777,dummy@gmail.com,100
+u2,u2,u2,imt2022007,2,2@gmail.com,0

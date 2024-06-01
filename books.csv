@@ -1,0 +1,101 @@
+book_id,title,author,genre,year,availability
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,No
+2,To Kill a Mockingbird,Harper Lee,Fiction,1960,No
+3,1984,George Orwell,Dystopian,1949,No
+4,Pride and Prejudice,Jane Austen,Romance,1813,Yes
+5,The Catcher in the Rye,J.D. Salinger,Fiction,1951,Yes
+6,Moby-Dick,Herman Melville,Adventure,1851,Yes
+7,The Hobbit,J.R.R. Tolkien,Fantasy,1937,Yes
+8,War and Peace,Leo Tolstoy,Historical,1869,Yes
+9,The Odyssey,Homer,Classical,8th Century BC,Yes
+10,Crime and Punishment,Fyodor Dostoevsky,Crime,10,Yes
+11,The Adventures of Huckleberry Finn,Mark Twain,Adventure,1884,Yes
+12,Brave New World,Aldous Huxley,Dystopian,1932,Yes
+13,Wuthering Heights,Emily Brontë,Romance,1200,Yes
+14,Jane Eyre,Charlotte Brontë,Romance,1847,Yes
+15,Great Expectations,Charles Dickens,Fiction,1861,Yes
+16,The Divine Comedy,Dante Alighieri,Classical,1320,Yes
+17,Frankenstein,Mary Shelley,Horror,1818,Yes
+18,The Iliad,Homer,Classical,8th Century BC,Yes
+19,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical,1880,Yes
+20,Les Misérables,Victor Hugo,Historical,1862,Yes
+21,Madame Bovary,Gustave Flaubert,Fiction,1856,Yes
+22,The Scarlet Letter,Nathaniel Hawthorne,Historical,1850,Yes
+23,Anna Karenina,Leo Tolstoy,Romance,1878,Yes
+24,Don Quixote,Miguel de Cervantes,Adventure,1615,Yes
+25,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,Yes
+26,One Hundred Years of Solitude,Gabriel García Márquez,Magical Realism,1967,Yes
+27,The Picture of Dorian Gray,Oscar Wilde,Philosophical,1890,Yes
+28,Dracula,Bram Stoker,Horror,1897,Yes
+29,The Catcher in the Rye,J.D. Salinger,Fiction,1951,Yes
+30,Lolita,Vladimir Nabokov,Romance,1955,Yes
+31,The Sun Also Rises,Ernest Hemingway,Fiction,1926,Yes
+32,The Trial,Franz Kafka,Philosophical,1925,Yes
+33,The Metamorphosis,Franz Kafka,Fiction,1915,Yes
+34,Heart of Darkness,Joseph Conrad,Adventure,1899,Yes
+35,The Stranger,Albert Camus,Philosophical,1942,Yes
+36,Alice's Adventures in Wonderland,Lewis Carroll,Fantasy,1865,Yes
+37,The Wind in the Willows,Kenneth Grahame,Fantasy,1908,Yes
+38,The Time Machine,H.G. Wells,Science Fiction,1895,Yes
+39,War of the Worlds,H.G. Wells,Science Fiction,1898,Yes
+40,Animal Farm,George Orwell,Dystopian,1945,Yes
+41,Fahrenheit 451,Ray Bradbury,Dystopian,1953,Yes
+42,Slaughterhouse-Five,Kurt Vonnegut,Science Fiction,1969,Yes
+43,Catch-22,Joseph Heller,Satire,1961,Yes
+44,The Grapes of Wrath,John Steinbeck,Fiction,1939,Yes
+45,East of Eden,John Steinbeck,Fiction,1952,Yes
+46,Of Mice and Men,John Steinbeck,Fiction,1937,Yes
+47,Gone with the Wind,Margaret Mitchell,Historical,1936,Yes
+48,Rebecca,Daphne du Maurier,Gothic,1938,Yes
+49,The Hound of the Baskervilles,Arthur Conan Doyle,Crime,1902,Yes
+50,50thbook,50author,Fiction,1951,Yes
+51,To the Lighthouse,Virginia Woolf,Fiction,1927,Yes
+52,Orlando,Virginia Woolf,Fiction,1928,Yes
+53,The Call of the Wild,Jack London,Adventure,1903,Yes
+54,White Fang,Jack London,Adventure,1906,Yes
+55,The Old Man and the Sea,Ernest Hemingway,Fiction,1952,Yes
+56,For Whom the Bell Tolls,Ernest Hemingway,Fiction,1940,Yes
+57,The Sound and the Fury,William Faulkner,Fiction,1929,Yes
+58,As I Lay Dying,William Faulkner,Fiction,1930,Yes
+59,Light in August,William Faulkner,Fiction,1932,Yes
+60,Invisible Man,Ralph Ellison,Fiction,1952,Yes
+61,Native Son,Richard Wright,Fiction,1940,Yes
+62,Beloved,Toni Morrison,Fiction,1987,Yes
+63,Song of Solomon,Toni Morrison,Fiction,1977,Yes
+64,The Bluest Eye,Toni Morrison,Fiction,1970,Yes
+65,Sula,Toni Morrison,Fiction,1973,Yes
+66,The Color Purple,Alice Walker,Fiction,1982,Yes
+67,Their Eyes Were Watching God,Zora Neale Hurston,Fiction,1937,Yes
+68,Brave New World,Aldous Huxley,Dystopian,1932,Yes
+69,The Grapes of Wrath,John Steinbeck,Fiction,1939,Yes
+70,Lord of the Flies,William Golding,Fiction,1954,Yes
+71,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,Yes
+72,The Hobbit,J.R.R. Tolkien,Fantasy,1937,Yes
+73,Dune,Frank Herbert,Science Fiction,1965,Yes
+74,The Martian,Andy Weir,Science Fiction,2011,No
+75,The Road,Cormac McCarthy,Post-Apocalyptic,2006,Yes
+76,Blood Meridian,Cormac McCarthy,Western,1985,Yes
+77,No Country for Old Men,Cormac McCarthy,Thriller,2005,Yes
+78,The Stand,Stephen King,Horror,1978,No
+79,It,Stephen King,Horror,1986,Yes
+80,The Shining,Stephen King,Horror,1977,Yes
+81,Dracula,Bram Stoker,Horror,1897,Yes
+82,Frankenstein,Mary Shelley,Horror,1818,Yes
+83,The Haunting of Hill House,Shirley Jackson,Horror,1959,Yes
+84,Rebecca,Daphne du Maurier,Gothic,1938,Yes
+85,The Turn of the Screw,Henry James,Gothic,1898,Yes
+86,The Woman in White,Wilkie Collins,Gothic,1859,Yes
+87,The Moonstone,Wilkie Collins,Mystery,1868,Yes
+88,The Maltese Falcon,Dashiell Hammett,Crime,1930,Yes
+89,The Big Sleep,Raymond Chandler,Crime,1939,Yes
+90,Gone Girl,Gillian Flynn,Thriller,2012,Yes
+91,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,2005,Yes
+92,The Da Vinci Code,Dan Brown,Thriller,2003,Yes
+93,Angels & Demons,Dan Brown,Thriller,2000,Yes
+94,The Hunt for Red October,Tom Clancy,Thriller,1984,Yes
+95,Patriot Games,Tom Clancy,Thriller,1987,Yes
+96,The Silence of the Lambs,Thomas Harris,Thriller,1988,Yes
+97,Red Dragon,Thomas Harris,Thriller,1981,Yes
+98,Hannibal,Thomas Harris,Thriller,1999,Yes
+99,American Gods,Neil Gaiman,Fantasy,2001,Yes
+100,Good Omens,Neil Gaiman and Terry Pratchett,Fantasy,1990,No
